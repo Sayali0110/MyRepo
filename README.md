@@ -1,2 +1,2 @@
 # MyRepo
-IBM Full Stack Dev Course
+This is a README file of MyRepo of GitHub
